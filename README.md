@@ -5,7 +5,7 @@
 This application allows user to search books by author, genre and more. Each book will be accompanied by author, description and published date. User can favorite books they like and the book data will be saved and display under their profile page. Application is deployed through Heroku.
 
 Deployed link:
-https://aqueous-plateau-74718.herokuapp.com/
+https://book-spot-search-tool.herokuapp.com/
 
 ## Table of Contents
 * [Installation](#installation)
